@@ -1,3 +1,8 @@
+![photos](https://github.com/manidweep1306/BeingZero/blob/main/photos/Screenshot%202025-11-09%20144019.png)
+
+
+
+```java
 class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -22,8 +27,9 @@ class Main {
                     if(a[i] > s){
                         s = a[i];
                     }
-            }   
+            }  
         }
         System.out.print(max+" "+s);
     }
 }
+```
