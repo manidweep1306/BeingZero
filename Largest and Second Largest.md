@@ -1,3 +1,10 @@
+![image](https://github.com/manidweep1306/BeingZero/blob/main/photos/Screenshot%202025-11-09%20142227.png)
+
+
+
+
+
+```java
 import java.util.*;
 import java.io.*;
 
@@ -37,3 +44,5 @@ class Main {
         System.out.print(max+" "+s);
     }
 }
+```
+
