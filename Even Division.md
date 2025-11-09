@@ -1,3 +1,7 @@
+![image](https://github.com/manidweep1306/BeingZero/blob/main/photos/Screenshot%202025-11-09%20124119.png)
+
+
+```java
 import java.util.*;
 import java.io.*;
 
@@ -19,3 +23,4 @@ class Main {
         }
     }
 }
+```
